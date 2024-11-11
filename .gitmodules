@@ -1,0 +1,3 @@
+[submodule "terraform_practice"]
+	path = terraform_practice
+	url = https://github.com/mrutyunjay-practice/project.git
